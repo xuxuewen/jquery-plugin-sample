@@ -1,6 +1,6 @@
 {
   "name": "xxw-jquery-plugin-sample",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个用来练习jquery插件的项目",
   "main": "src/index.js",
   "scripts": {
@@ -11,7 +11,10 @@
     "type": "git",
     "url": "git+https://github.com/xuxuewen/jquery-plugin-sample.git"
   },
-  "keywords": ["jquery","jquery-plugn"],
+  "keywords": [
+    "jquery",
+    "jquery-plugn"
+  ],
   "author": "xuxuewen <xxw.code@aliyun.com>",
   "license": "MIT",
   "bugs": {

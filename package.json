@@ -1,6 +1,6 @@
 {
   "name": "xxw-jquery-plugin-sample",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个用来练习jquery插件的项目",
   "main": "src/index.js",
   "scripts": {

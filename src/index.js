@@ -7,7 +7,7 @@
  *  fontStyle:'blod',
  *  complete:function(){alert('hello')}
  * })
- * @version 1.0.1
+ * @version 1.0.3
  * @todo 测试用例未完成
  * @return {jquery}         jquery dom 对象
  */
